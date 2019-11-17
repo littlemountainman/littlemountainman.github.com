@@ -1,3 +1,0 @@
-# leonhillmann.github.io
-My website
-This is my blog, uses Jekyll. I was tired of bloated, slow Wordpress that locked up all my content.

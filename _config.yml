@@ -1,18 +1,16 @@
 # Site settings
-title: littlemountainman
-email: leon.hillmann@gymerg.de
-description: "currenrly in the cloud - moving to VR soon"
+title: littlemountainman blog
+email: 
+description: "living in the cloud - moving to vr soon"
 baseurl: ""
-url: "littlemountainman.github.io"
+url: "http://littlemountainman.github.io"
 twitter_username: littlemtman
 github_username:  littlemountainman
-redirects: yes
+
 # Build settings
 markdown: kramdown
 permalink: pretty
-plugins:
-  - jekyll-redirect-from
-  - jekyll-sitemap
+
 highlighter: rouge
 kramdown:
   input: GFM

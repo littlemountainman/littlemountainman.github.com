@@ -4,7 +4,4 @@ title: About
 permalink: /about/
 ---
 
-
-Hello
-
-
+See my [website](http://cs.stanford.edu/people/karpathy/).
