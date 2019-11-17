@@ -1,11 +1,11 @@
 # Site settings
-title: Leon Hillmann  blog
+title: littlemountainman
 email: leon.hillmann@gymerg.de
-description: "Just for fun :)"
+description: "currenrly in the cloud - moving to VR soon"
 baseurl: ""
-url: "http://LHillmann.github.io"
-twitter_username: NeuralLeon
-github_username:  LHillmann
+url: "littlemountainman.github.io"
+twitter_username: littlemtman
+github_username:  littlemountainman
 redirects: yes
 # Build settings
 markdown: kramdown
@@ -18,4 +18,4 @@ kramdown:
   input: GFM
   auto_ids: true
   syntax_highlighter: rouge
-
+exclude: [vendor]
