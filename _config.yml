@@ -1,0 +1,21 @@
+# Site settings
+title: Leon Hillmann  blog
+email: leon.hillmann@gymerg.de
+description: "Just for fun :)"
+baseurl: ""
+url: "http://LHillmann.github.io"
+twitter_username: NeuralLeon
+github_username:  LHillmann
+redirects: yes
+# Build settings
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-redirect-from
+  - jekyll-sitemap
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+
