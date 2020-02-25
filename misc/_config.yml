@@ -11,7 +11,9 @@ baseurl: "/blog"
 # Build settings
 markdown: kramdown
 permalink: pretty
-
+plugins:
+  - jekyll-redirect-from
+  - jekyll-sitemap
 highlighter: rouge
 kramdown:
   input: GFM
