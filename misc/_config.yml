@@ -2,10 +2,11 @@
 title: littlemountainman blog
 email:
 description: "living in the cloud - moving to vr soon"
-baseurl: "http://littlemountainman.github.io/blog"
+
 url: "http://littlemountainman.github.io/blog"
 twitter_username: littlemtman
 github_username:  littlemountainman
+baseurl: "/blog"
 
 # Build settings
 markdown: kramdown

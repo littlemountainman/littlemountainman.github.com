@@ -17,7 +17,7 @@ At the current state of my model the model basically just clones the human drive
 ## The actual model
 When I was first starting this project I started with an extremely large neural network [inspired by (page 5)](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf) and it just took ages to train and get the model to a decent level so I trashed that one. So I moved on to this smaller model: 
 <center>
-	<img src="/assets/smallmodel.png" style="width:25%;height:25%;">
+	<img src="/blog/assets/smallmodel.png" style="width:25%;height:25%;">
 </center>
 
 it doesnt seem small but trust me it is. This is the code for it:

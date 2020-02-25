@@ -3,10 +3,10 @@
   <channel>
     <title>littlemountainman blog</title>
     <description>living in the cloud - moving to vr soon</description>
-    <link>http://littlemountainman.github.io/blog/</link>
-    <atom:link href="http://littlemountainman.github.io/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 25 Feb 2020 15:02:53 +0100</pubDate>
-    <lastBuildDate>Tue, 25 Feb 2020 15:02:53 +0100</lastBuildDate>
+    <link>http://localhost:4000/blog/</link>
+    <atom:link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 25 Feb 2020 18:30:56 +0100</pubDate>
+    <lastBuildDate>Tue, 25 Feb 2020 18:30:56 +0100</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -22,7 +22,7 @@
 &lt;h2 id=&quot;the-actual-model&quot;&gt;The actual model&lt;/h2&gt;
 &lt;p&gt;When I was first starting this project I started with an extremely large neural network &lt;a href=&quot;https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf&quot;&gt;inspired by (page 5)&lt;/a&gt; and it just took ages to train and get the model to a decent level so I trashed that one. So I moved on to this smaller model:&lt;/p&gt;
 &lt;center&gt;
-	&lt;img src=&quot;/assets/smallmodel.png&quot; style=&quot;width:25%;height:25%;&quot; /&gt;
+	&lt;img src=&quot;/blog/assets/smallmodel.png&quot; style=&quot;width:25%;height:25%;&quot; /&gt;
 &lt;/center&gt;
 
 &lt;p&gt;it doesnt seem small but trust me it is. This is the code for it:&lt;/p&gt;
@@ -67,8 +67,8 @@ That is just lane keeping so far but it does quite a good job at doing it. It is
 
 </description>
         <pubDate>Wed, 27 Nov 2019 00:00:00 +0100</pubDate>
-        <link>http://littlemountainman.github.io/blog/2019/11/27/selfdrivingfun/</link>
-        <guid isPermaLink="true">http://littlemountainman.github.io/blog/2019/11/27/selfdrivingfun/</guid>
+        <link>http://localhost:4000/blog/2019/11/27/selfdrivingfun/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2019/11/27/selfdrivingfun/</guid>
         
         
       </item>
